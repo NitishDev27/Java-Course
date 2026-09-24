@@ -12,7 +12,12 @@ public class floating {
 
        // floating numbers (method 2) to find out the real value stored in loaction by the compiler
 
-       float f=0.4f;
-       System.out.printf("format:%.20f%n",f);
+        float f=0.4f;
+        System.out.printf("format:%.20f%n",f);
+
+        float b=8.125f;
+        System.out.printf("format:%.20f%n",b);
+
+    
     }
 }
